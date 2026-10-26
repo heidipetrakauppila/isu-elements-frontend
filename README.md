@@ -1,2 +1,3 @@
 # isu-elements-frontend
-ISU Elements - Frontend-opintojakson henkilökohtainen projekti
+Frontend-opintojakson henkilökohtainen projekti
+Projektin nimi: ISU Elements
