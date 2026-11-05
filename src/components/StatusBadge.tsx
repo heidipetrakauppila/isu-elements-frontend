@@ -1,5 +1,5 @@
 import React from 'react';
-import { StatusLevel } from '../types';
+import type { StatusLevel } from '../types';
 
 interface Props {
   status: StatusLevel;
